@@ -3,7 +3,7 @@ import Cards from "./components/Cards";
 function App() {
   return (
     <div className="App">
-      <h1>Joc de memorie - Pentru ROXANA</h1>
+      <h1>Memory Game</h1>
        <Cards />
     </div> 
   );

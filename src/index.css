@@ -61,6 +61,7 @@ h1{
   }
 }
 
+
 .card.active{
   transform: rotateY(0);
 }
